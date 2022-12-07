@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emilyjiji
 - 👀 I’m interested in enhancing my coding skills.
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning C++ and Web3 Dev
 
 <!---
 emilyjiji/emilyjiji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
