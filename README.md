@@ -1,26 +1,34 @@
 ### Projects
 
-- **Lexer and Parser with Type Checking and Code Generation** :rocket:
-  - Java (Jan 2023 - May 2023)
+- **Lexer and Parser with Type Checking and Code Generation**
+  - ![Java](https://img.shields.io/badge/-Java-grey)
 
-- **Full Stack Budget Tracker Web App** :chart_with_upwards_trend:
-  - Angular, Go, HTML, CSS (Jan 2023 - May 2023)
+- **Full Stack Budget Tracker Web App**
+  - ![Angular](https://img.shields.io/badge/-Angular-grey)
+  - ![Go](https://img.shields.io/badge/-Go-grey)
+  - ![HTML](https://img.shields.io/badge/-HTML-grey)
+  - ![CSS](https://img.shields.io/badge/-CSS-grey)
 
-- **Game Sort Project** :video_game:
-  - HTML, CSS, TypeScript (Nov 2022)
+- **Game Sort Project**
+  - ![HTML](https://img.shields.io/badge/-HTML-grey)
+  - ![CSS](https://img.shields.io/badge/-CSS-grey)
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-grey)
 
-- **PageRank Project** :bar_chart:
-  - C++ (Oct 2022)
+- **PageRank Project**
+  - ![C++](https://img.shields.io/badge/-C++-grey)
 
-- **TGA Image Processing** :camera:
-  - C++ (Apr 2022)
+- **TGA Image Processing**
+  - ![C++](https://img.shields.io/badge/-C++-grey)
 
-- **Templated Doubly Linked List Implementation** :link:
-  - C++ (Mar 2022)
+- **Templated Doubly Linked List Implementation**
+  - ![C++](https://img.shields.io/badge/-C++-grey)
 
-- **PacMan Project** :ghost:
-  - Java (Nov 2021)
+- **PacMan Project**
+  - ![Java](https://img.shields.io/badge/-Java-grey)
 
-- **IBM Hackathon Project** :bulb:
-  - HTML, CSS, JavaScript (Oct 2021)
+- **IBM Hackathon Project**
+  - ![HTML](https://img.shields.io/badge/-HTML-grey)
+  - ![CSS](https://img.shields.io/badge/-CSS-grey)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-grey)
+
 
