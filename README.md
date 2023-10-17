@@ -2,7 +2,7 @@
 
 | Project Name                                          | Technologies Used                                | Date Range        |
 |------------------------------------------------------|--------------------------------------------------|-------------------|
-| AdapTree - Gator AI Days Hackathon                                          | ![HTML](https://img.shields.io/badge/-HTML-grey) ![CSS](https://img.shields.io/badge/-CSS-grey) ![JavaScript](https://img.shields.io/badge/-JavaScript-grey) ![Django] (https://img.shields.io/badge/-Django-grey)  | Oct 2023  |
+| AdapTree - Gator AI Days Hackathon                                          | ![HTML](https://img.shields.io/badge/-HTML-grey) ![CSS](https://img.shields.io/badge/-CSS-grey) ![JavaScript](https://img.shields.io/badge/-JavaScript-grey) ![Django](https://img.shields.io/badge/-Django-grey)  | Oct 2023  |
 | BuilderCollab                                          | ![HTML](https://img.shields.io/badge/-HTML-grey) ![CSS](https://img.shields.io/badge/-CSS-grey) ![JavaScript](https://img.shields.io/badge/-JavaScript-grey) ![Firebase](https://img.shields.io/badge/-Firebase-grey) | Jul 2023 - Present |
 | Economics of Wetland Policy Research                  | ![Python](https://img.shields.io/badge/-Python-grey)| Aug 2023 - Present |
 | Lexer and Parser with Type Checking and Code Generation | ![Java](https://img.shields.io/badge/-Java-grey) | Jan 2023 - May 2023 |
