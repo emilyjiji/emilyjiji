@@ -15,6 +15,6 @@
 | AVL Tree Implementation                                 | ![C++](https://img.shields.io/badge/-C++-grey)   | Sept 2022 |
 | TGA Image Processing                                 | ![C++](https://img.shields.io/badge/-C++-grey)   | Apr 2022 |
 | Templated Doubly Linked List Implementation         | ![C++](https://img.shields.io/badge/-C++-grey)   | Mar 2022 |
-| PacMan Project                                       | ![Java](https://img.shields.io/badge/-Java-grey) | Nov 2021 |
+| PacMan AI Heuristic                                       | ![Java](https://img.shields.io/badge/-Java-grey) | Nov 2021 |
 | IBM Hackathon Project                                | ![HTML](https://img.shields.io/badge/-HTML-grey) ![CSS](https://img.shields.io/badge/-CSS-grey) ![JavaScript](https://img.shields.io/badge/-JavaScript-grey) | Oct 2021 |
 
