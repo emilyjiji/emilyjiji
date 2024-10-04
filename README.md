@@ -2,7 +2,7 @@
 
 | Project Name                                          | Technologies Used                                | Date Range        |
 |------------------------------------------------------|--------------------------------------------------|-------------------|
-| DinoJourney - ShellHacks Hackathon                                          |  ![TypeScript](https://img.shields.io/badge/-TypeScript-grey) ![ReactNative](https://img.shields.io/badge/-ReactNative-grey)  ![Gemini](https://img.shields.io/badge/-Gemini-grey) ![Expo](https://img.shields.io/badge/-Expo-grey) ![Figma](https://img.shields.io/badge/-Figma-grey)  | Oct 2024  |
+| DinoJourney - ShellHacks Hackathon                                          |  ![TypeScript](https://img.shields.io/badge/-TypeScript-grey) ![React Native](https://img.shields.io/badge/-ReactNative-grey)  ![Gemini](https://img.shields.io/badge/-Gemini-grey) ![Expo](https://img.shields.io/badge/-Expo-grey) ![Figma](https://img.shields.io/badge/-Figma-grey)  | Oct 2024  |
 | WAD File System Implementation + FUSE Daemon | ![C++](https://img.shields.io/badge/-C++-grey)  | Dec 2023 |
 | Linux Memory Manager | ![C++](https://img.shields.io/badge/-C++-grey)  | Nov 2023 |
 | AdapTree - Gator AI Days Hackathon                                          | ![HTML](https://img.shields.io/badge/-HTML-grey) ![CSS](https://img.shields.io/badge/-CSS-grey) ![JavaScript](https://img.shields.io/badge/-JavaScript-grey) ![Django](https://img.shields.io/badge/-Django-grey)  ![Boostrap](https://img.shields.io/badge/-Boostrap-grey)  ![Figma](https://img.shields.io/badge/-Figma-grey)  | Oct 2023  |
