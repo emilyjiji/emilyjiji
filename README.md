@@ -2,6 +2,7 @@
 
 | Project Name                                          | Technologies Used                                | Date Range        |
 |------------------------------------------------------|--------------------------------------------------|-------------------|
+| Uniswap v4 Hook for Liquidity Optimization via Restaking             | ![Solidity](https://img.shields.io/badge/-Java-grey) ![Javascript](https://img.shields.io/badge/-MachineLearning-grey)  | Feb 2024 - Present |
 | Rheumatoid Arthritis Dataset Analysis - Bioinformatics                | ![Python](https://img.shields.io/badge/-Java-grey) ![Machine Learning](https://img.shields.io/badge/-MachineLearning-grey)  | Aug - Nov 2024  |
 | DinoJourney - ShellHacks Hackathon                                          |  ![TypeScript](https://img.shields.io/badge/-TypeScript-grey) ![React Native](https://img.shields.io/badge/-ReactNative-grey)  ![Gemini](https://img.shields.io/badge/-Gemini-grey) ![Expo](https://img.shields.io/badge/-Expo-grey) ![Figma](https://img.shields.io/badge/-Figma-grey)  | Oct 2024  |
 | WAD File System Implementation + FUSE Daemon | ![C++](https://img.shields.io/badge/-C++-grey)  | Dec 2023 |
